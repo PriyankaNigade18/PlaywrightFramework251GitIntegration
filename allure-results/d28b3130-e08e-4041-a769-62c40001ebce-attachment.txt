@@ -1,0 +1,8 @@
+Status code is: 201
+{
+  id: 8370990,
+  name: 'Priyanka',
+  email: 'priyanka1771171899723@gmail.com',
+  gender: 'female',
+  status: 'active'
+}

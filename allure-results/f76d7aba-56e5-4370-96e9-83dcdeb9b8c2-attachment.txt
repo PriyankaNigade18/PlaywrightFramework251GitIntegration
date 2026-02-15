@@ -1,0 +1,73 @@
+Status code: 200
+[
+  {
+    id: 8370625,
+    name: 'Hamsini Acharya DDS',
+    email: 'acharya_hamsini_dds@little.test',
+    gender: 'male',
+    status: 'active'
+  },
+  {
+    id: 8370624,
+    name: 'Atreyee Bhat',
+    email: 'atreyee_bhat@oconnell.example',
+    gender: 'male',
+    status: 'inactive'
+  },
+  {
+    id: 8370623,
+    name: 'Vasudha Asan',
+    email: 'asan_vasudha@bosco.test',
+    gender: 'female',
+    status: 'active'
+  },
+  {
+    id: 8370622,
+    name: 'Ms. Arun Mukhopadhyay',
+    email: 'mukhopadhyay_arun_ms@casper-schaefer.example',
+    gender: 'female',
+    status: 'inactive'
+  },
+  {
+    id: 8370621,
+    name: 'Abani Tandon VM',
+    email: 'tandon_vm_abani@schiller.example',
+    gender: 'male',
+    status: 'active'
+  },
+  {
+    id: 8370620,
+    name: 'Chiranjeeve Adiga Sr.',
+    email: 'sr_adiga_chiranjeeve@johns.test',
+    gender: 'female',
+    status: 'inactive'
+  },
+  {
+    id: 8370619,
+    name: 'Avani Kocchar',
+    email: 'avani_kocchar@senger-farrell.test',
+    gender: 'female',
+    status: 'active'
+  },
+  {
+    id: 8370618,
+    name: 'Msgr. Charuchandra Banerjee',
+    email: 'charuchandra_msgr_banerjee@watsica-osinski.test',
+    gender: 'female',
+    status: 'active'
+  },
+  {
+    id: 8370617,
+    name: 'Bharat Varrier',
+    email: 'bharat_varrier@friesen.example',
+    gender: 'female',
+    status: 'inactive'
+  },
+  {
+    id: 8370616,
+    name: 'Dhatri Varman',
+    email: 'varman_dhatri@haag.example',
+    gender: 'female',
+    status: 'active'
+  }
+]
